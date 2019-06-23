@@ -35,5 +35,8 @@ USAGE
 2. Run the application.
 3. Open Postmate and fill out all the fields as shown in the screenshots and click "Send" to send the push notification.
 
-![header](https://user-images.githubusercontent.com/24483619/59982488-25b30d80-95c8-11e9-81b9-7bd64e7b0f2d.png)
+![header](https://user-images.githubusercontent.com/24483619/59982520-804c6980-95c8-11e9-922f-eb85bfa16390.png)
+In the header, set "Content Type" as "application/json" and "Authorization" as your firebase Legacy Server Key. The key could be found in project settings under "Cloud Messaging" tab in firebase console.
+
 ![body](https://user-images.githubusercontent.com/24483619/59982496-3f545500-95c8-11e9-862d-f8e102dc98b4.png)
+In the body, set "to" to your topic specified in the main activity. For example, I have specified it as "NEWS".
