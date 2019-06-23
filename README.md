@@ -8,11 +8,11 @@ This application has two ways of sending notifications. Clicking on the notifica
 # Notification using channels
 This type of notification is within the application and is handeled by notification channels.
 
-# Usage 
+USAGE
 1. Download the zip folder and unzip all the files. Open the project in Android Studio.
 2. Run the application
 
-# Demo
+DEMO
 
 App in Foreground mode
 
@@ -25,3 +25,15 @@ App in Background mode
 App in Killed mode
 
 ![app](https://user-images.githubusercontent.com/24483619/59982388-63169b80-95c6-11e9-9ae6-806ffaff93b4.gif)
+
+# FCM Push Notification
+
+This type of notification is sent through firebase to all the users at once. To edit the "click_action" function which decides which activity to open, I have used Postmate.
+
+USAGE
+1. Download the zip folder and unzip all the files. Open the project in Android Studio.
+2. Run the application.
+3. Open Postmate and fill out all the fields as shown in the screenshots and click "Send" to send the push notification.
+
+![header](https://user-images.githubusercontent.com/24483619/59982488-25b30d80-95c8-11e9-81b9-7bd64e7b0f2d.png)
+![body](https://user-images.githubusercontent.com/24483619/59982496-3f545500-95c8-11e9-862d-f8e102dc98b4.png)
