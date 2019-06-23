@@ -44,3 +44,8 @@ In the body, set "to" to your topic specified in the main activity. For example,
 DEMO
 
 ![fcm](https://user-images.githubusercontent.com/24483619/59982638-5dbb5000-95ca-11e9-9621-4ab62d202dfd.gif)
+
+# Credits
+Postman (https://www.getpostman.com/)
+Firebase Cloud Messaging (https://firebase.google.com/docs/cloud-messaging)
+Kapwing Video Trimmer (https://www.kapwing.com/trim-video)
