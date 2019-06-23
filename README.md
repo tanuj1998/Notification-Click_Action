@@ -16,7 +16,7 @@ This type of notification is within the application and is handeled by notificat
 
 App in Foreground mode
 
-![foreground](https://user-images.githubusercontent.com/24483619/59982209-81c76300-95c3-11e9-81cf-411e0971f749.gif)
+![fore](https://user-images.githubusercontent.com/24483619/59982426-0b2c6480-95c7-11e9-91c0-2e42ef7b433c.gif)
 
 App in Background mode
 
