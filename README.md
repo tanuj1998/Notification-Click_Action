@@ -45,6 +45,8 @@ DEMO
 
 ![fcm](https://user-images.githubusercontent.com/24483619/59982638-5dbb5000-95ca-11e9-9621-4ab62d202dfd.gif)
 
+This method works when app is in foreground mode, background mode and kill mode.
+
 # Credits
 . Postman (https://www.getpostman.com/)
 
