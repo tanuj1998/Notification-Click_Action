@@ -40,3 +40,6 @@ In the header, set "Content Type" as "application/json" and "Authorization" as y
 
 ![body](https://user-images.githubusercontent.com/24483619/59982496-3f545500-95c8-11e9-862d-f8e102dc98b4.png)
 In the body, set "to" to your topic specified in the main activity. For example, I have specified it as "NEWS".
+
+DEMO
+![fcm](https://user-images.githubusercontent.com/24483619/59982638-5dbb5000-95ca-11e9-9621-4ab62d202dfd.gif)
