@@ -47,6 +47,10 @@ DEMO
 
 This method works when app is in foreground mode, background mode and kill mode.
 
+# Version
+
+1.0.0
+
 # Credits
 . Postman (https://www.getpostman.com/)
 
