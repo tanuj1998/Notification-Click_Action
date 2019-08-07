@@ -52,8 +52,8 @@ This method works when app is in foreground mode, background mode and kill mode.
 1.0.0
 
 # Credits
-. Postman (https://www.getpostman.com/)
-
 . Firebase Cloud Messaging (https://firebase.google.com/docs/cloud-messaging)
+
+. Postman (https://www.getpostman.com/)
 
 . Kapwing Video Trimmer (https://www.kapwing.com/trim-video)
